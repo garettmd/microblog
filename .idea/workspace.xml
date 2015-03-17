@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa829de7-6763-47a9-ad03-87cc8542dc6d" name="Default" comment="" />
+    <list default="true" id="aa829de7-6763-47a9-ad03-87cc8542dc6d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="microblog.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -92,7 +94,7 @@
       <file leaf-file-name="db_upgrade.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/db_upgrade.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20711975" vertical-offset="0" max-vertical-offset="618">
+            <state vertical-scroll-proportion="0.13675214" vertical-offset="0" max-vertical-offset="936">
               <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
               <folding>
                 <element signature="e#55#89#0" expanded="true" />
@@ -402,7 +404,21 @@
       <updated>1426608570859</updated>
     </task>
     <option name="localTasksCounter" value="2" />
-    <servers />
+    <servers>
+      <GitHub shared="false" url="github.com">
+        <commitMessageFormat>{id} {summary}</commitMessageFormat>
+        <password />
+        <token>df9bdfccdf92df9edf9bdf9cdf99df9ddf9adf9cdfcbdf99df98df93dfc8df9ddf9ddf9ddf93df98dfcfdf9cdfc8df9ddf92df98df93dfc8df93df93dfcedf92df9edf9adfc8df9bdf92df98df9fdfcb</token>
+        <option name="loginAnonymously" value="false" />
+        <option name="repoAuthor" value="garettmd" />
+        <option name="repoName" value="microblog" />
+        <option name="shouldFormatCommitMessage" value="false" />
+        <option name="useHttpAuthentication" value="false" />
+        <option name="useProxy" value="false" />
+        <option name="user" value="garettmd" />
+        <username />
+      </GitHub>
+    </servers>
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -426,10 +442,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="58" y="-4" width="1866" height="1088" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32987553" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987553" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953367" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -631,7 +647,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db_upgrade.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20711975" vertical-offset="0" max-vertical-offset="618">
+        <state vertical-scroll-proportion="0.13675214" vertical-offset="0" max-vertical-offset="936">
           <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
           <folding>
             <element signature="e#55#89#0" expanded="true" />
