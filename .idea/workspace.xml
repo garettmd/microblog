@@ -95,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/db_upgrade.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.13675214" vertical-offset="0" max-vertical-offset="936">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
               <folding>
                 <element signature="e#55#89#0" expanded="true" />
               </folding>
@@ -403,7 +403,11 @@
       <created>1426608570859</created>
       <updated>1426608570859</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit&#10;On page 4 of the flask tutorial">
+      <created>1426609061150</created>
+      <updated>1426609061150</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers>
       <GitHub shared="false" url="github.com">
         <commitMessageFormat>{id} {summary}</commitMessageFormat>
@@ -648,7 +652,7 @@
     <entry file="file://$PROJECT_DIR$/db_upgrade.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13675214" vertical-offset="0" max-vertical-offset="936">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
           <folding>
             <element signature="e#55#89#0" expanded="true" />
           </folding>
